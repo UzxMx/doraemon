@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author       = { "XueMingxiang" => "xuemx@cleverloop.com" }
   s.platform     = :ios, "7.0"
   s.source       = {
-    git => "https://uzxmx@bitbucket.org/cleverloopsmokey/doraemon.git"
+    git => "https://bitbucket.org/cleverloopsmokey/doraemon.git"
   }
   s.public_header_files = "Doraemon.framework/**/*.h"
   s.vendored_frameworks = "Doraemon.framework"
